@@ -1,0 +1,6 @@
+#CCCCCC warna bck
+<font size="6"> font top
+brdr #999999"
+#0275d8" warna tabel / bgcolor(pemanggilan)
+font size table <font size="4.5">
+font size php atau bwah table <font size="3"> 
